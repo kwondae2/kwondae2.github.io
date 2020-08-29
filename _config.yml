@@ -16,7 +16,7 @@ baseurl:          '/kwondae2'
 
 author:
   name:           'Leo Kwon'
-  url:            https://kwondae2.github.io/
+  url:            
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
