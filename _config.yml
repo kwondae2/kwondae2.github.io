@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            'Welecome to Leo's blog'
-tagline:          'Study records'
+title:            Hydeout
+tagline:          'A Jekyll theme'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://kwondae2.github.io/
-baseurl:          /kwondae2
+url:              https://kwondae2.github.io
+baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,8 +15,9 @@ baseurl:          /kwondae2
                   # sidebar_blog_link below.
 
 author:
-  name:           'kwondae2'
-  url:            http://google.com
+  name:           'Andrew Fong'
+  url:            https://twitter.com/fongandrewc
+
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
