@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Welecome to Leo's blog
+title:            'Welecome to Leo's blog'
 tagline:          'Study records'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://kwondae2.github.io/
@@ -16,8 +16,7 @@ baseurl:          '/kwondae2'
 
 author:
   name:           'Leo Kwon'
-  url:            N/A
-
+  url:            https://kwondae2.github.io/
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
