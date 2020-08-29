@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Leo's  Study blog
+title:            Leo's  Study History
 tagline:          'A Jekyll theme'
 description:      'Studying to become a developer'
 url:              https://kwondae2.github.io
