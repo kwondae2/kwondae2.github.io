@@ -15,8 +15,8 @@ baseurl:          '/kwondae2'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Leo Kwon'
-  url:            
+  name:           'kwondae2'
+  url:            http://google.com
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
