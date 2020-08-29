@@ -5,10 +5,10 @@ categories:
   - Markup
 tags:
   - html
-  - markup
+  - markups
   - post
   - title
-last_modified_at: 2012-01-31T12:23:27-05:00
+last_modified_at: 2020-08-29T12:23:27-05:00
 ---
 
 Putting special characters in the title should have no adverse effect on the layout or functionality.
