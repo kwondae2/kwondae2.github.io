@@ -1,12 +1,14 @@
 ---
 layout: category
-title: C++ study
+title: Linux study
 ---
+
 
 ```md
 
 
 Records of study
+
 
 
 ```

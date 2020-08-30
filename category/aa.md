@@ -1,6 +1,6 @@
 ---
 layout: category
-title: C++ study
+title: aa
 ---
 
 ```md
