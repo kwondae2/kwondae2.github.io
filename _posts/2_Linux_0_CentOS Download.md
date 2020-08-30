@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS Download"
+title: "Linux study: CentOS Download"
 categories:
   - Linux study
 tags:
